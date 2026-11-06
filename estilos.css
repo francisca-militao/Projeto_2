@@ -1,0 +1,41 @@
+body {
+    background-color: #141414; 
+    color: #ffffff;
+    font-family: Arial;
+    margin: 32px;
+
+}
+
+h1, h2 {
+    color: #e50914;
+    font-family: Georgia;
+}
+
+.destaque {
+    background-color: #9D1307; 
+    padding: 12px;
+    margin: 25px;
+}
+
+/*
+1. Desafio Técnico: Qual foi a regra CSS mais difícil de aplicar e como
+conseguiste superar essa dificuldade?
+R.: A regra CCS mais difícil de aplicar para mim foi a 'margin', pois na
+apresentação não estava explicito como usar. Superei esta dificuldade
+consultando o site da W3 Schools para aprender como colocar a margem.
+Site usado: https://www.w3schools.com/cssref/pr_margin.php
+
+2. Correção de Sintaxe: Durante os teus testes no browser, detetaste com
+certeza algum erro que te tenha obrigado a voltar ao Notepad++ para corrigir.
+Qual foi o teu erro mais comum?
+R.: O erro mais comum que tive foi com a colocação da imagem, quando a introduzi
+no código, no browser aparecia muito grande e foi preciso ajustar a largura ('width')
+até chegar a um ajuste ideal.
+
+3. Autoria: Escolhe apenas um dos atributos que usaste (href ou src)
+e explica pelas tuas próprias palavras, num único parágrafo, para que serve.
+R.: O atributo href que utilizei serve para conectar a minha página à página
+oficial da Netflix, a plataforma que disponibiliza e transmite a série,
+através da hiperligação na minha página com o site da Netflix, sob o texto
+'página oficial na Netflix'.
+/
